@@ -1,0 +1,36 @@
+_repo: The-Empresses-of-Constantinople_60938
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McCabe, Joseph
+    aliases:
+    - Antony, Father
+    - McCabe, Antony
+    - Macabe, Joseph
+    birthdate: 1867
+    deathdate: 1955
+    gutenberg_agent_id: '521'
+    url: http://www.gutenberg.org/2009/agents/521
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_McCabe
+description: ''
+gutenberg_issued: '2019-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60938'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Empresses -- Byzantine Empire -- Biography'
+- !lcsh 'Byzantine Empire -- History'
+- !lcc 'DF'
+- GITenberg
+tableOfContents: Verina and her daughters -- The early life of Theodora -- The Empress
+  Theodora -- Sophia -- Martina -- The most pious Irene -- Saint Theodora -- The wives
+  of Leo the Philosopher -- The tavern-keeper's daughter [Theophano] -- Two imperial
+  sisters [Zoe and Theodora] -- Eudocia -- Irene and Anna Comnena -- A breath of chivalry
+  -- Euphrosyne Ducæena -- The new Constantinople -- Irene of Montferrat -- Maria
+  of Armenia -- Anna of Savoy -- The last Byzantine Empresses.
+title: The Empresses of Constantinople
+url: http://www.gutenberg.org/ebooks/60938
